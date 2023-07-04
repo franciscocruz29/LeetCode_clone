@@ -60,7 +60,7 @@ const Login: React.FC<LoginProps> = () => {
       <div className="text-sm font-medium text-gray-300">
         Not Registered?{"   "}
         <a href="#" className="text-blue-700 hover:underline">
-           Create account
+          Create account
         </a>
       </div>
     </form>
