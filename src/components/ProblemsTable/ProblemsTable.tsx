@@ -49,7 +49,6 @@ const ProblemsTable: React.FC<ProblemsTableProps> = () => {
                 <Link
                   href={`/problems/${problem.id}`}
                   className="hover:text-blue-600 cursor-pointer"
-                  target="_blank"
                 >
                   {problem.title}
                 </Link>
